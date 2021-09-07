@@ -4,7 +4,7 @@ inheritance, encapsulating and polymorphism
 """
 
 
-class Parent():
+class Parent:
     def __init__(self, greeting):
         self.greeting = greeting
 
